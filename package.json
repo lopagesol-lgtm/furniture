@@ -1,0 +1,16 @@
+{
+  "name": "westhaven-furniture",
+  "version": "1.0.0",
+  "description": "Westhaven \u2014 solid wood furniture site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "compression": "^1.8.1"
+  }
+}
